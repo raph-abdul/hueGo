@@ -1,13 +1,8 @@
-# YouGo: Golang API Skeleton
-
----
-![golang-docker](./images/golang-docker.png)
-
-
+# hueGo: Golang API starter project
 
 ---
 
-> Ready-to-use API starter project for building REST APIs with `Golang and Echo framework`. This project provides a
+> Ready-to-use API skeleton project for building REST APIs with `Golang and Echo framework`. This project provides a
 > foundation demonstrating a layered architecture and integration with common tools and technologies.
 
 ## 🔧 Technology Stack
@@ -33,8 +28,8 @@ Needed regardless of whether you use Docker or not.
 1. **Clone the repository:**
 
 ```bash
-    git clone https://github.com/raph-abdul/youGo
-    cd youGo
+    git clone https://github.com/raph-abdul/hueGo
+    cd hueGo
 ```
 
 2. **Configure Environment File:**
